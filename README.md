@@ -12,6 +12,11 @@ AI Social Media Automation is your all-in-one solution for creating viral-worthy
 - Create professional-quality videos automatically
 - Optimize content for maximum reach and engagement
 
+## 🎥 Video Demonstration
+
+Watch our demo video to see the AI Social Media Automation tool in action:
+[Project Demo Video](https://drive.google.com/file/d/17SPsZGLQRE9T07N-I-eLRbDtieOfcOaK/view?usp=sharing)
+
 ## ✨ Key Features
 
 ### Content Discovery & Analysis
